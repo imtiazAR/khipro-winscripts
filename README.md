@@ -2,7 +2,7 @@
 
 A simple PowerShell installer for [Khipro](https://github.com/KhiproTeam/khipro-windows-portable) on Windows.
 
-This script downloads the portable `khipro.exe` directly into the current user's Windows Startup folder and starts Khipro immediately.
+This script downloads the [latest portable](https://github.com/KhiproTeam/khipro-windows-portable/releases/latest) `khipro.exe` directly into the current user's Windows Startup folder and starts Khipro immediately.
 
 ## Features
 
