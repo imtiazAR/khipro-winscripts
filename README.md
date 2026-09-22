@@ -79,7 +79,7 @@ No administrator privileges are required because the installer uses the current 
 The installer downloads the Khipro portable executable from the GitHub release:
 
 ```text
-https://github.com/KhiproTeam/khipro-windows-portable/releases/download/v36.2.3-0-1/khipro.exe
+https://github.com/KhiproTeam/khipro-windows-portable/releases/
 ```
 
 It then saves the executable as:
