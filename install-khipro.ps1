@@ -1,4 +1,4 @@
-$DownloadUrl = "https://github.com/KhiproTeam/khipro-windows-portable/releases/download/v36.2.3-0-1/khipro.exe"
+$DownloadUrl = "https://github.com/KhiproTeam/khipro-windows-portable/releases/download/v36.5.0-0-1/khipro.exe"
 
 $StartupDir = [Environment]::GetFolderPath("Startup")
 $KhiproExe = Join-Path $StartupDir "khipro.exe"
