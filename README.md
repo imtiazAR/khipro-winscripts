@@ -102,4 +102,4 @@ install-khipro.ps1
 
 This installer script is provided as-is.
 
-Khipro itself is maintained by the KhiproTeam project. Please refer to the [Khipro Windows Portable repository](https://github.com/KhiproTeam/khipro-windows-portable) for the Khipro project's license and source code.
+Khipro itself is maintained by the [KhiproTeam project](https://khipro.khiproteam.com/). Please refer to the [Khipro Windows Portable repository](https://github.com/KhiproTeam/khipro-windows-portable) for the Khipro project's license and source code.
